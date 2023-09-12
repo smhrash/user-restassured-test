@@ -1,0 +1,1746 @@
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:58:15 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 21,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/21
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:58:15 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:58:15 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 22,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/22
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:58:15 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:58:15 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 23,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	GET
+Request URI:	http://localhost:8082/user_app/v1/users/23
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:58:16 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 23,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/23
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:58:16 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:58:16 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 24,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	GET
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:58:16 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+[
+    {
+        "userId": 24,
+        "firstName": "Sarker",
+        "lastName": "Jovan",
+        "username": "Sarker",
+        "password": "******",
+        "dateOfBirth": "1991-03-26T05:30:30",
+        "phoneNumbers": [
+            440320884,
+            440320882
+        ]
+    }
+]
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/24
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:58:16 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:58:16 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 25,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	PUT
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 25,
+    "firstName": "Omar",
+    "lastName": "Sani",
+    "username": "Omar",
+    "password": "******",
+    "dateOfBirth": [
+        1987,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        660320830,
+        660300882
+    ]
+}
+HTTP/1.1 202 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:58:16 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 25,
+    "firstName": "Omar",
+    "lastName": "Sani",
+    "username": "Omar",
+    "password": "******",
+    "dateOfBirth": "1987-03-26T05:30:30",
+    "phoneNumbers": [
+        660320830,
+        660300882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/25
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 25,
+    "firstName": "Omar",
+    "lastName": "Sani",
+    "username": "Omar",
+    "password": "******",
+    "dateOfBirth": [
+        1987,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        660320830,
+        660300882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:58:16 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:07 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 26,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/26
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:07 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:07 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 27,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/27
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:07 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 28,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	GET
+Request URI:	http://localhost:8082/user_app/v1/users/28
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 28,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/28
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 29,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	GET
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+[
+    {
+        "userId": 29,
+        "firstName": "Sarker",
+        "lastName": "Jovan",
+        "username": "Sarker",
+        "password": "******",
+        "dateOfBirth": "1991-03-26T05:30:30",
+        "phoneNumbers": [
+            440320884,
+            440320882
+        ]
+    }
+]
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/29
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 30,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	PUT
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 30,
+    "firstName": "Omar",
+    "lastName": "Sani",
+    "username": "Omar",
+    "password": "******",
+    "dateOfBirth": [
+        1987,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        660320830,
+        660300882
+    ]
+}
+HTTP/1.1 202 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 30,
+    "firstName": "Omar",
+    "lastName": "Sani",
+    "username": "Omar",
+    "password": "******",
+    "dateOfBirth": "1987-03-26T05:30:30",
+    "phoneNumbers": [
+        660320830,
+        660300882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/30
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 30,
+    "firstName": "Omar",
+    "lastName": "Sani",
+    "username": "Omar",
+    "password": "******",
+    "dateOfBirth": [
+        1987,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        660320830,
+        660300882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:08 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:46 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 31,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/31
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:46 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:46 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 32,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/32
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:46 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:47 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 33,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	GET
+Request URI:	http://localhost:8082/user_app/v1/users/33
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:47 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 33,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/33
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:47 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:47 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 34,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	GET
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:47 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+[
+    {
+        "userId": 34,
+        "firstName": "Sarker",
+        "lastName": "Jovan",
+        "username": "Sarker",
+        "password": "******",
+        "dateOfBirth": "1991-03-26T05:30:30",
+        "phoneNumbers": [
+            440320884,
+            440320882
+        ]
+    }
+]
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/34
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:47 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+Request method:	POST
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 0,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": [
+        1991,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+HTTP/1.1 201 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:47 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 35,
+    "firstName": "Sarker",
+    "lastName": "Jovan",
+    "username": "Sarker",
+    "password": "******",
+    "dateOfBirth": "1991-03-26T05:30:30",
+    "phoneNumbers": [
+        440320884,
+        440320882
+    ]
+}
+Request method:	PUT
+Request URI:	http://localhost:8082/user_app/v1/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 35,
+    "firstName": "Omar",
+    "lastName": "Sani",
+    "username": "Omar",
+    "password": "******",
+    "dateOfBirth": [
+        1987,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        660320830,
+        660300882
+    ]
+}
+HTTP/1.1 202 
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Sep 2023 14:59:47 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
+
+{
+    "userId": 35,
+    "firstName": "Omar",
+    "lastName": "Sani",
+    "username": "Omar",
+    "password": "******",
+    "dateOfBirth": "1987-03-26T05:30:30",
+    "phoneNumbers": [
+        660320830,
+        660300882
+    ]
+}
+Request method:	DELETE
+Request URI:	http://localhost:8082/user_app/v1/users/35
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userId": 35,
+    "firstName": "Omar",
+    "lastName": "Sani",
+    "username": "Omar",
+    "password": "******",
+    "dateOfBirth": [
+        1987,
+        3,
+        26,
+        5,
+        30,
+        30
+    ],
+    "phoneNumbers": [
+        660320830,
+        660300882
+    ]
+}
+HTTP/1.1 200 
+Content-Length: 0
+Date: Tue, 12 Sep 2023 14:59:47 GMT
+Keep-Alive: timeout=60
+Connection: keep-alive
