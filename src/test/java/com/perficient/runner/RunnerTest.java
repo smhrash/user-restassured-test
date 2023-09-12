@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = {"src/test/java/com/perficient/features"},
         glue = {"com/perficient/step_definitions"},
         plugin = {"pretty", "json:target/cucumber-report.json"}
-       // tags = "@get-user"
+        //tags = "@create-user"
 )
 
 public class RunnerTest {

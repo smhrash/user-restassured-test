@@ -28,11 +28,11 @@ public class PojoConvertor {
     public UserDTO updateUser(int userId) {
         userDTO = new UserDTO();
         userDTO.setUserId(userId);
-        userDTO.setUsername("Ranu");
-        userDTO.setFirstName("Ranu");
-        userDTO.setLastName("Sarker");
+        userDTO.setUsername("Omar");
+        userDTO.setFirstName("Omar");
+        userDTO.setLastName("Sani");
         userDTO.setPassword("******");
-        userDTO.setDateOfBirth(LocalDateTime.of(1997, 3, 26, 5, 30, 30));
+        userDTO.setDateOfBirth(LocalDateTime.of(1987, 3, 26, 5, 30, 30));
         Set<Integer> phoneList = new HashSet<>();
         phoneList.add(660320830);
         phoneList.add(660300882);

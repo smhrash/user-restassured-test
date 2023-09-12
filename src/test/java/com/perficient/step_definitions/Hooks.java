@@ -5,63 +5,58 @@ import io.cucumber.java.Before;
 
 public class Hooks {
 
-    @Before("@update-user")
-    public void createUserBeforeUpdate() {
+    // Helper method to create a user
+    private void createUser() {
         StepDefinition sd = new StepDefinition();
         sd.iHaveRequestBody(" ");
-        sd.iPerformWithRequest("CREATE_USER","POST");
+        sd.iPerformWithRequest("CREATE_USER", "POST");
         sd.iSeeTheAccountStatus("CREATED");
+    }
+
+    // Helper method to delete a user
+    private void deleteUser() {
+        StepDefinition sd = new StepDefinition();
+        sd.iHaveRequestBody("NO");
+        sd.iPerformWithRequest("DELETE_USER", "DELETE");
+    }
+
+    @Before("@update-user")
+    public void createUserBeforeUpdate() {
+        createUser();
     }
 
     @Before("@delete-user")
     public void createUserBeforeDelete() {
-        StepDefinition sd = new StepDefinition();
-        sd.iHaveRequestBody(" ");
-        sd.iPerformWithRequest("CREATE_USER","POST");
-        sd.iSeeTheAccountStatus("CREATED");
+        createUser();
     }
 
     @Before("@get-user")
     public void createUserBeforeRetrieve() {
-        StepDefinition sd = new StepDefinition();
-        sd.iHaveRequestBody(" ");
-        sd.iPerformWithRequest("CREATE_USER","POST");
-        sd.iSeeTheAccountStatus("CREATED");
+        createUser();
     }
 
     @Before("@get-users")
     public void createUserBeforeRetrieveAll() {
-        StepDefinition sd = new StepDefinition();
-        sd.iHaveRequestBody(" ");
-        sd.iPerformWithRequest("CREATE_USER","POST");
-        sd.iSeeTheAccountStatus("CREATED");
+        createUser();
     }
 
     @After("@create-user")
     public void tearDownAfterCreate() {
-        StepDefinition sd = new StepDefinition();
-        sd.iHaveRequestBody("NO");
-        sd.iPerformWithRequest("DELETE_USER", "DELETE");
+        deleteUser();
     }
 
     @After("@update-user")
     public void tearDownAfterUpdate() {
-        StepDefinition sd = new StepDefinition();
-        sd.iHaveRequestBody("NO");
-        sd.iPerformWithRequest("DELETE_USER", "DELETE");
+        deleteUser();
     }
 
     @After("@get-user")
     public void tearDownAfterRetrieve() {
-        StepDefinition sd = new StepDefinition();
-        sd.iHaveRequestBody("NO");
-        sd.iPerformWithRequest("DELETE_USER", "DELETE");
+        deleteUser();
     }
 
     @After("@get-users")
     public void tearDownAfterRetrieveAll() {
-        StepDefinition sd = new StepDefinition();
-        sd.iHaveRequestBody("NO");
-        sd.iPerformWithRequest("DELETE_USER", "DELETE");
+        deleteUser();
     }
 }

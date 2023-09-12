@@ -23,9 +23,8 @@ public class StepDefinition extends AbstractServiceTest {
             requestSpecification = given().spec(requestSpec()).body(pc.createUser());
         } else if (type.equals("UPDATED")) {
             requestSpecification = given().spec(requestSpec()).body(pc.updateUser(userId));
-        } else {
+        } else if (type.equals("NO")) {
             requestSpecification = given().spec(requestSpec());
-
         }
 
     }
